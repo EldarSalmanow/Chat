@@ -1,0 +1,7 @@
+[requires]
+boost/1.82.0
+gs_cross_platform/1.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
